@@ -13,9 +13,9 @@ define("DB_NAME", "culinnari");
 
 // a2hosting
 // define("DB_SERVER", "localhost");
-// define("DB_USER", " charli12_chain_gang");
-// define("DB_PASS", 'RF2"JfXC9^e5t.2');
-// define("DB_NAME", "charli12_chain_gang");
+// define("DB_USER", "culinnar_squidtheadmin");
+// define("DB_PASS", 'Deadmau5fan1997!');
+// define("DB_NAME", "culinnar_culinnari");
 
 
 ?>
